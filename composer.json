@@ -1,5 +1,5 @@
 {
-    "name": "xqkeji/xq-com-overlayscrollbars",
+    "name": "xqkeji/xq-res-overlayscrollbars",
     "description": "新齐通用后台管理页面系统的使用的overlayscrollbars的js、css等前端程序的composer包。",
     "type": "library",
     "license": "MIT",
@@ -18,7 +18,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
                 }]
             }
         ],
@@ -26,13 +26,13 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
                 }]
             },
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
                 }]
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-com-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
                 }]
             }
         ]
