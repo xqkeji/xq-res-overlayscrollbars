@@ -18,7 +18,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"www/assets/overlayscrollbars/"
                 }]
             }
         ],
@@ -26,13 +26,13 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"www/assets/overlayscrollbars/"
                 }]
             },
             {
                 "cmd":["xqkeji\\composer\\Asset","copyDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"www/assets/overlayscrollbars/"
                 }]
             }
         ],
@@ -40,7 +40,7 @@
             {
                 "cmd":["xqkeji\\composer\\Asset","rmDirs"],
                 "param":[{
-                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"resource/overlayscrollbars/"
+                    "vendor/xqkeji/xq-res-overlayscrollbars/src/":"www/assets/overlayscrollbars/"
                 }]
             }
         ]
